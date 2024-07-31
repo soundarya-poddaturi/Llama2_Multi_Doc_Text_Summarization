@@ -1,0 +1,14 @@
+{
+  "id": "alapatirohith/kaggleiniti2",
+  "title": "kaggleiniti2",
+  "code_file": "D://ps_3//New_folder//notebook//kaggleint.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": "true",
+  "enable_gpu": "true",
+  "enable_tpu": "false",
+  "enable_internet": "true",
+  "competition_sources": [],
+  "kernel_sources": [],
+  "model_sources": []
+}
